@@ -43,7 +43,7 @@ headless: true
 
 - [**Balisage et carte**]({{<relref"/docs/buoyage_system_and_map">}})
 
-- [**Privilèges de barre et régate**]({{<relref"/docs/regatta">}})
+- [**La régate**]({{<relref"/docs/regatta">}})
     - [Prendre un bon départ]({{<relref"/docs/regatta/getting_off_to_a_good_start">}})
     - Les privilèges de barre (En cours)
     - Notion de cadre (En cours)
