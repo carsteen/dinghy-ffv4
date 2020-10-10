@@ -45,8 +45,9 @@ headless: true
 
 - [**La régate**]({{<relref"/docs/regatta">}})
     - [Prendre un bon départ]({{<relref"/docs/regatta/getting_off_to_a_good_start">}})
-    - Les privilèges de barre (En cours)
-    - Notion de cadre (En cours)
+    - [Les privilèges de barre]({{<relref"/docs/regatta/steering_privileges">}})
+    - [Les drapeaux en régate]({{<relref"/docs/regatta/flags">}})
+    - [Notion de cadre]({{<relref"/docs/regatta/laylines">}})
 
 - **Annexes**
     - [Comment gréer un laser]({{<relref"/docs/annexes/laser_rigging">}})

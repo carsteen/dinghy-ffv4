@@ -81,4 +81,5 @@ Les différents grades sont:
 Le Grade « Evènementiel » Extra Grade : Vitrine des compétitions de prestige,
 {{< /tab >}}
 {{< /tabs >}}
+
 {{< navigation parent="/" next="/docs/regatta/getting_off_to_a_good_start" >}}
