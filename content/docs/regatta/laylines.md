@@ -41,10 +41,10 @@ Ce cadre nous permet de définir le placement des coureurs par rapport à la bou
 ## Stratégies
 ### Au près dans un vent qui bascule
 
-{{< youtubestart XV9Bp_mKYNg 0 >}}
+{{< youtubestart XV9Bp_mKYNg 26 >}}
 
 ### Au vent arrière dans un vent qui bascule
 
-{{< youtubestart 5tn4abu7bW8 0 >}}
+{{< youtubestart 5tn4abu7bW8 26 >}}
 
 {{< navigation parent="/docs/regatta" prev="/docs/regatta/flags" >}}
