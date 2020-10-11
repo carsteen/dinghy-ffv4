@@ -27,7 +27,10 @@ Array.from(items).forEach((item) => {
 
 if (storedItems) {
     Array.from(Object.keys(storedItems)).forEach((element) => {
-        document.getElementById(element).checked = storedItems[element] === "1";
+        let item = document.getElementById(element);
+        if (item) {
+            item.checked = storedItems[element] === "1";
+        }
     });
 }
 
