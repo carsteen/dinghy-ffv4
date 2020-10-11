@@ -45,7 +45,7 @@ headless: true
 
 - [**La régate**]({{<relref"/docs/regatta">}})
     - [Prendre un bon départ]({{<relref"/docs/regatta/getting_off_to_a_good_start">}})
-    - [Les privilèges de barre]({{<relref"/docs/regatta/steering_privileges">}})
+    - [Principales règles]({{<relref"/docs/regatta/main_rules">}})
     - [Les pavillons en régate]({{<relref"/docs/regatta/flags">}})
     - [Notion de cadre]({{<relref"/docs/regatta/laylines">}})
 
