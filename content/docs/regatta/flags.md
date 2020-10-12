@@ -41,8 +41,8 @@ Départ (**- 0 min**):
 - Le pavillon de série est descendu
 - Signal sonore court
 
-**Il faut être attentif après le départ aux potentiels rappels individuels et collectifs**
 {{< /columns >}}
+**Il faut être attentif après le départ aux potentiels rappels individuels et collectifs**
 
 ## Pavillons de rappel
 
