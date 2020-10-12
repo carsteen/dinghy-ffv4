@@ -43,12 +43,14 @@ headless: true
 
 - [**Balisage et carte**]({{<relref"/docs/buoyage_system_and_map">}})
 
-- [**Privilèges de barre et régate**]({{<relref"/docs/regatta">}})
+- [**La régate**]({{<relref"/docs/regatta">}})
     - [Prendre un bon départ]({{<relref"/docs/regatta/getting_off_to_a_good_start">}})
-    - Les privilèges de barre (En cours)
-    - Notion de cadre (En cours)
+    - [Principales règles]({{<relref"/docs/regatta/main_rules">}})
+    - [Les pavillons en régate]({{<relref"/docs/regatta/flags">}})
+    - [Notion de cadre]({{<relref"/docs/regatta/laylines">}})
 
 - **Annexes**
+    - [S'auto-évaluer]({{<relref"/docs/annexes/self-evaluation">}})
     - [Comment gréer un laser]({{<relref"/docs/annexes/laser_rigging">}})
     - Reconnaître les nuages (En cours)
     - [Les fronts]({{<relref"/docs/annexes/annexe-fronts">}})

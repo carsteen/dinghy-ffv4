@@ -16,7 +16,7 @@ Table des matières :
 - [**Les chronologies**]({{<relref"/docs/chronologies">}})
 - [**Les marées**]({{<relref"/docs/tides">}})
 - [**Balisage et carte**]({{<relref"/docs/buoyage_system_and_map">}})
-- [**Privilèges de barre et régate**]({{<relref"/docs/regatta">}})
+- [**La régate**]({{<relref"/docs/regatta">}})
 
 Ce cours théorique s'inspire du travail d'Antoine Rogues pour l'[ex niveau 5 ffv en catamaran](http://glenans.arogues.org/niveau5.pdf).
 
