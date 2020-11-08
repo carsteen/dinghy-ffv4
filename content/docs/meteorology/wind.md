@@ -54,24 +54,24 @@ Les barbules se retrouvent toujours du côté des pressions les plus basses de l
 {{< figure caption="Barbule de vent" src="../images/wind-barbul.png" >}}
 {{< /columns >}}
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **Faites un schéma à l'aide de barbule d'une hampe de vent pour décrire un vent provenant du Nord-Est et de 25 kts de vitesse:**
-{{< expand "Réponse">}}
+{{< details title="Réponse">}}
 {{< figure caption="25 noeuds" src="../images/25kts.png" >}}
-{{< / expand >}}
-{{< /hint >}}
+{{< /details >}}
+{{< /hint_with_class >}}
 
 ## Échelle de Beaufort
 {{< figure caption="Echelle de Beaufort" src="../images/beaufort.png" >}}
 
 L’échelle de Beaufort est fonction de la force du vent. Anciennement, c’était une échelle d’observation (en fonction de l’état de la mer). L’échelle n’est pas linéaire.
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **A quelle force sur l'échelle de Beaufort correspond un vent de 25 kts?**
 
-{{< expand "Réponse">}}
+{{< details title="Réponse">}}
 Force 6
-{{< / expand >}}
-{{< /hint >}}
+{{< /details >}}
+{{< /hint_with_class >}}
 
 {{< navigation previous="/docs/meteorology/general_circulation" parent="/docs/meteorology" next="/docs/meteorology/air_volumes" >}}

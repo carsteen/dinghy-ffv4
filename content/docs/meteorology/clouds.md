@@ -43,7 +43,7 @@ De l’air chaud et humide arrive sur une surface plus froide.
 
 ## Classification des différents nuages
 
-On reconnait un nuage grâce à sa forme et à son altitude (voir [Annexe 1]() pour les photos).
+On reconnait un nuage grâce à sa forme et à son altitude (voir [Reconnaître les nuages]({{<relref"/docs/annexes/clouds_recognition">}}) pour les photos).
 {{< columns >}}
 {{< figure caption="Les différents types de nuages" src="../images/clouds.png" >}}
 <--->
@@ -60,18 +60,18 @@ On reconnait un nuage grâce à sa forme et à son altitude (voir [Annexe 1](
 {{< /columns >}}
 La nébulosité est exprimée en octas : la voute céleste en entier compte pour 8 octas. Par exemple, si la moitié du ciel est occupée par des nuages, il y a 4 octas de nuages.
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **Comment appelle t'on la couche de l'étage supérieur?**
-{{< expand "Réponse">}}
+{{< details title="Réponse">}}
 La couche cirro.
-{{< / expand >}}
-{{< /hint >}}
+{{< /details >}}
+{{< /hint_with_class >}}
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **Complétez la phrase suivante: "Les nuages à développement vertical sont de la famille des ____ et sont de nature ____, les nuages à développement en couche sont de la famille des ____ et sont de nature ____"**
-{{< expand "Réponse">}}
+{{< details title="Réponse">}}
 Les nuages à développement vertical sont de la famille des **cumuliformes** et sont de nature **instable**, les nuages à développement en couche sont de la famille des **stratiformes** et sont de nature **stable**.
-{{< / expand >}}
-{{< /hint >}}
+{{< /details >}}
+{{< /hint_with_class >}}
 
 {{< navigation previous="/docs/meteorology/air_volumes" parent="/docs/meteorology" next="/docs/meteorology/frontology" >}}

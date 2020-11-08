@@ -48,17 +48,17 @@ Attention: la réalité est souvent bien plus complexe
 
 Attention c’est 20° au-dessus de la mer, et 40° au-dessus de la terre.
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **Placez les termes correspondant pour A à E et donnez la vitesse et la direction du vent en 1 et en 2. De quel type de carte s'agit t'il?**
 
 Front chaud - Front froid - Front occlus - Anticyclone - Dépression
 
 {{< figure caption="carte isobarique" src="../images/isobaric-map.gif" >}}
 
-{{< expand "Réponse">}}
+{{< details title="Réponse">}}
 **A**. Dépression - **B**. Anticyclone - **C**. Front froid - **D**. Front occlus - **E**. Front chaud / 1. vitesse: Environ 40 kts - direction: Ouest / 2. vitesse: Environ 10 Kts - direction: Nord-Ouest / Il s'agit d'une carte d'analyse.
-{{< /expand >}}
+{{< /details>}}
 
-{{< /hint >}}
+{{< /hint_with_class >}}
 
 {{< navigation previous="/docs/meteorology/weather_associated_with_a_perturbation" parent="/docs/meteorology" next="/docs/meteorology/local_weather" >}}

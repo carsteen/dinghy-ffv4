@@ -18,13 +18,13 @@ Le corps correspond étroitement aux fronts. Le secteur chaud est l’air chaud
 La traîne enfin, trouve sa place en arrière du front froid.
 Assez souvent, le centre dépressionnaire peut s’isoler sur les photographies satellites, par une présence moins importante de masses nuageuses.
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **Pour chaque lettre indiquez l'élément correspondant:**
 {{< figure caption="Question sur la dépression" src="../images/depression-question.jpg" >}}
-{{< expand "Réponse">}}
+{{< details title="Réponse">}}
 **A:** Front chaud / **B:** Front froid / **C:** Point triple / **D:** Front Occlus / **E:** Centre dépressionaire
-{{< /expand >}}
-{{< /hint >}}
+{{< /details>}}
+{{< /hint_with_class >}}
 
 ## Passage d’une perturbation « type » sur les côtes Bretonnes
 ### Vue de haut
@@ -46,16 +46,16 @@ Puis dans un second temps se dégager et laisser place à un ciel peuplé de str
 Ce répit sera de courte durée et cédera sa place à des vents forts ainsi que de violentes averses au passage du cumulonimbus. Des orages sont possibles.
 La situation s'améliorera alors pour céder sa place au ciel de traîne avec quelques grains et éclaircies.
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **Reproduisez le schéma de l'arrivée d'une perturbation**
-{{< expand "Réponse" >}}
+{{< details title="Réponse" >}}
 {{< columns >}}
 {{< figure caption="Passage des fronts" src="../images/fronts-passage.jpg" >}}
 <--->
 {{< figure caption="Perturbation" src="../images/perturbation.gif" >}}
 {{< /columns >}}
 Plusieurs présentations sont possibles
-{{< /expand >}}
-{{< /hint >}}
+{{< /details>}}
+{{< /hint_with_class >}}
 
 {{< navigation previous="/docs/meteorology/frontology" parent="/docs/meteorology" next="/docs/meteorology/isobaric_map" >}}
