@@ -22,6 +22,19 @@ figure{
 }
 
 .book-hint{
+  &.question{
+    details{
+      background-color: $background-grey;
+      border: 1px solid #e9ecef;
+      border-radius: .25rem;
+
+      summary{
+        margin: initial;
+        font-weight: bold;
+      }
+    }
+  }
+
   details{
     border: initial;
     border-radius: initial;

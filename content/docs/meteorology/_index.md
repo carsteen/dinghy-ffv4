@@ -14,7 +14,7 @@ C’est le poids de la colonne d’air située au-dessus d’une surface. Elle 
 
 La pression se mesure à l’aide d’un baromètre.
 La pression standard et moyenne est de 1013,25 hPa.
-Il existe d’autres unités : 
+Il existe d’autres unités :
 
 - Le millimètre de mercure : 760 mm Hg = 1013, 25 hPa (système anglo-saxon: pouce de mercure).
 - L’atmosphère : 1 atm = 1013,25 hPa.
@@ -23,19 +23,19 @@ Au-dessus de 1015hPa on parle d’anticyclone ou haute pression et en dessous de
 Les lignes d’égale pression à altitude donnée sont appelées des isobares.
 Note : à nos latitudes, le moment de la journée ne modifie quasiment pas la pression.
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **Quellle est la pression moyenne de l'atmosphère au niveau de la mer?**
-{{< expand "Réponse">}}
+{{< details title="Réponse">}}
 1013, 25 hPa
-{{< /expand >}}
-{{< /hint >}}
+{{< /details>}}
+{{< /hint_with_class >}}
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **Vous relevez au baromètre une pression de 980hPa, qu'en déduisez-vous?**
-{{< expand "Réponse">}}
+{{< details title="Réponse">}}
 Nous sommes actuellement dans le régime de la dépression
-{{< / expand >}}
-{{< /hint >}}
+{{< /details >}}
+{{< /hint_with_class >}}
 
 ## La température
 

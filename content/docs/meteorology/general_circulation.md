@@ -46,11 +46,11 @@ Elle dépend de la latitude et de la vitesse de la particule.
 {{< /columns >}}
 Cette force tend à déplacer la particule vers sa droite dans l’hémisphère nord (et vers sa gauche dans l’hémisphère sud). Sans cette force, il n’y aurait qu’une cellule par hémisphère.
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **Faites un schéma des différentes cellules dans l'hémisphère nord:**
-{{< expand "Réponse">}}
+{{< details title="Réponse" >}}
 {{< figure caption="Cellules atmosphère" src="../images/north-cells.png" >}}
-{{< / expand >}}
-{{< /hint >}}
+{{< /details >}}
+{{< /hint_with_class >}}
 
 {{< navigation parent="/docs/meteorology" next="/docs/meteorology/wind" >}}

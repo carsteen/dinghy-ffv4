@@ -32,12 +32,12 @@ Vers la mi-journée, les premiers cumulus sont présents et la brise commence 
 Une fois établie, la brise reste habituellement jusqu’au coucher du soleil. Attention à ne pas se faire «piéger» lors des navigations par régime de brises (le vent pouvant alors diminuer bien avant le coucher de soleil si la  brise  est faible en intensité). Enfin, la direction du vent tourne (vers la droite) au cours de la journée due à la force de Coriolis.
 {{< /columns >}}
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **Faites un schéma pour expliquer la brise thermique cotière diurne:**
-{{< expand "Réponse">}}
+{{< details title="Réponse">}}
 {{< figure caption="Brise marine shéma" src="../images/sea-breeze-schema.jpeg" >}}
-{{< /expand >}}
-{{< /hint >}}
+{{< /details>}}
+{{< /hint_with_class >}}
 
 ### Critères d'établissement d'une brise thermique diurne
 
@@ -71,13 +71,13 @@ On peut utiliser un système de points pour prédire si la brise thermique a de
 
 {{< /columns >}}
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **La présence de cumulus est-elle suffisante pour que s'établisse une brise thermique?**
 
-{{< expand "Réponse">}}
+{{< details title="Réponse">}}
 Non, les cumulus le long de la côte sont un bon indice mais d'autres critères sont essentiels comme le différentiel de température air/eau et une vitesse de vent synoptique inférieure à 16kts.
-{{< /expand >}}
-{{< /hint >}}
+{{< /details>}}
+{{< /hint_with_class >}}
 
 ## Les effets de sites
 
@@ -122,12 +122,12 @@ Côtes avec relief important, type Côte d’Azur, Corse, Pays Basque): onde de 
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **Faites un schéma pour illustrer un effet de canalisation local:**
-{{< expand "Réponse">}}
+{{< details title="Réponse">}}
 {{< figure caption="Brise marine shéma" src="../images/canalisation-effect-local.png" >}}
-{{< /expand >}}
-{{< /hint >}}
+{{< /details>}}
+{{< /hint_with_class >}}
 
 ## Le grain
 Le grain est une variation brusque de la vitesse et/ou de la direction du vent. Il est accompagné le plus souvent d’un nuage fortement convectif de type cumulus congestus (Cc) ou cumulonimbus (Cb). En voile légère, il est fortement déconseillé de naviguer sous un Cb. De fortes rafales de directions variables avec pluie voire grêle sont des conditions habituelles sous un grain. De plus sous un Cb, un éclair peut venir frapper votre embarcation.
@@ -150,18 +150,18 @@ Il faut dissocier le cas d’un grain pluvieux et d’un grain non pluvieux.
 {{< figure caption="Les vents du grain non précipitant" src="../images/non_raining_grain_wind.png" >}}
 {{< /columns >}}
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **Pourquoi est-il dangereux de naviguer sous un cumilonimbus en voile légère?:**
-{{< expand "Réponse">}}
+{{< details title="Réponse">}}
 Il est dangereux de naviguer sous un cumulonimbus car il peut y avoir de fortes rafales de direction variables avec de la pluie voire de la grêle. Si un orage est présent, un éclair peut venir frapper le bateau.
-{{< /expand >}}
-{{< /hint >}}
+{{< /details>}}
+{{< /hint_with_class >}}
 
-{{< hint warning >}}
+{{< hint_with_class question warning >}}
 **Quand a t'on le plus de chance de rencontrer un grain?**
-{{< expand "Réponse">}}
+{{< details title="Réponse">}}
 Juste avant le passage d’un front froid et après son passage (dans la traîne).
-{{< /expand >}}
-{{< /hint >}}
+{{< /details>}}
+{{< /hint_with_class >}}
 
 {{< navigation previous="/docs/meteorology/isobaric_map" parent="/docs/meteorology" next="/docs/meteorology/waves_and_swell" >}}
